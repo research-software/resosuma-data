@@ -13,6 +13,10 @@ The three columns correspond to the *actor* (col 1), *action* (col 2), and
 
 ## Version history
 
+- `resosuma-0.2.0-draft.csv` is a refined mapping of the research software 
+sustainability space, as submitted to 
+[WSSSPE6.1](http://wssspe.researchcomputing.org.uk/wssspe6-1/).
+
 - `resosuma-0.1.0.csv` is a mapping of Daniel S. Katz' original visualization of
 the research software sustainability space, as presented in a talk [1].
 
