@@ -4,7 +4,6 @@ Research Software Engineers,are,Researchers
 Research Software Engineers,publish software with,Publishers
 Research Software Engineers,use as a development platform,Code platforms
 Research Software Engineers,deposit software in,Archival repositories
-Research Software Engineers,disseminate software to,Archival repositories
 Research Software Engineers,develop,Research software
 Research Software Engineers,test,Research software
 Research Software Engineers,design,Research software
@@ -17,7 +16,6 @@ Research Software Engineers,use,Software engineering processes
 Research Software Engineers,develop,Software engineering processes
 Researchers,collaborate,Research Software Engineers
 Researchers,are,Research Software Engineers
-Researchers,disseminate,Archival repositories
 Researchers,develop,Research software
 Researchers,use,Research software
 Researchers,reproduce,Research software
