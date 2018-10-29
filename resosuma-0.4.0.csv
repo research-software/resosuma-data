@@ -1,95 +1,91 @@
-"Research Software Engineers","collaborate","Research Software Engineers"
-"Research Software Engineers","support","Researchers"
-"Research Software Engineers","are","Researchers"
-"Research Software Engineers","publish","Publishers"
-"Research Software Engineers","publish","Code platforms"
-"Research Software Engineers","publish","Archival repositories"
-"Research Software Engineers","disseminate","Archival repositories"
-"Research Software Engineers","develop","Research software"
-"Research Software Engineers","test","Research software"
-"Research Software Engineers","design","Research software"
-"Research Software Engineers","reuse","Research software"
-"Research Software Engineers","own","Research software"
-"Research Software Engineers","use","Supporting software"
-"Research Software Engineers","join","Communities"
-"Research Software Engineers","propose","Funding organizations"
-"Research Software Engineers","use","Software engineering processes"
-"Research Software Engineers","develop","Software engineering processes"
-"Researchers","collaborate","Research Software Engineers"
-"Researchers","are","Research Software Engineers"
-"Researchers","publish","Publishers"
-"Researchers","publish","Archival repositories"
-"Researchers","disseminate","Archival repositories"
-"Researchers","develop","Research software"
-"Researchers","use","Research software"
-"Researchers","reproduce","Research software"
-"Researchers","cite","Research software"
-"Researchers","research","Research software"
-"Researchers","use","Supporting software"
-"Researchers","join","Communities"
-"Researchers","propose","Funding organizations"
-"Researchers","research","Software engineering processes"
-"Educators","train","Research Software Engineers"
-"Educators","educate","Research Software Engineers"
-"Educators","train","Researchers"
-"Educators","educate","Researchers"
-"Educators","educate","Communities"
-"Educators","join","Communities"
-"Educators","educate","Funding organizations"
-"Educators","educate","Hiring organizations"
-"Educators","disseminate","Software engineering processes"
-"Publishers","reward","Research Software Engineers"
-"Publishers","recognize","Research Software Engineers"
-"Publishers","reward","Researchers"
-"Publishers","recognize","Researchers"
-"Publishers","recognize","Research software"
-"Publishers","address","Communities"
-"Code platforms","recognize","Research Software Engineers"
-"Code platforms","store","Research software"
-"Code platforms","measure","Research software"
-"Code platforms","store","Supporting software"
-"Code platforms","measure","Supporting software"
-"Archival repositories","recognize","Research Software Engineers"
-"Archival repositories","recognize","Researchers"
-"Archival repositories","archive","Research software"
-"Archival repositories","measure","Research software"
-"Archival repositories","archive","Supporting software"
-"Archival repositories","measure","Supporting software"
-"Indices","index","Research software"
-"Indices","recognize","Research Software Engineers"
-"Indices","recognize","Researchers"
-"Research software","depends","Research software"
-"Research software","use","Hardware & system software"
-"Supporting software","use","Hardware & system software"
-"Communities","recognize","Research Software Engineers"
-"Communities","reward","Research Software Engineers"
-"Communities","recognize","Researchers"
-"Communities","reward","Researchers"
-"Communities","recognize","Educators"
-"Communities","reward","Educators"
-"Communities","standardize","Software engineering processes"
-"Funding organizations","recognize","Research Software Engineers"
-"Funding organizations","reward","Research Software Engineers"
-"Funding organizations","recognize","Researchers"
-"Funding organizations","reward","Researchers"
-"Funding organizations","fund","Hiring organizations"
-"Hiring organizations","hire","Research Software Engineers"
-"Hiring organizations","promote","Research Software Engineers"
-"Hiring organizations","recognize","Research Software Engineers"
-"Hiring organizations","reward","Research Software Engineers"
-"Hiring organizations","hire","Researchers"
-"Hiring organizations","promote","Researchers"
-"Hiring organizations","recognize","Researchers"
-"Hiring organizations","reward","Researchers"
-"Hiring organizations","hire","Educators"
-"Hiring organizations","promote","Educators"
-"Hiring organizations","recognize","Educators"
-"Hiring organizations","reward","Educators"
-"Hiring organizations","own","Code platforms"
-"Hiring organizations","own","Archival repositories"
-"Hiring organizations","own","Research software"
-"Hiring organizations","measure","Research software"
-"Hiring organizations","own","Supporting software"
-"Hiring organizations","formalize","Software engineering processes"
-"Hiring organizations","require","Software engineering processes"
-"Hiring organizations","own","Hardware & system software"
+Research Software Engineers,collaborate,Research Software Engineers
+Research Software Engineers,support,Researchers
+Research Software Engineers,are,Researchers
+Research Software Engineers,publish software with,Publishers
+Research Software Engineers,use as a development platform,Code platforms
+Research Software Engineers,deposit software in,Archival repositories
+Research Software Engineers,develop,Research software
+Research Software Engineers,test,Research software
+Research Software Engineers,design,Research software
+Research Software Engineers,reuse,Research software
+Research Software Engineers,own,Research software
+Research Software Engineers,use,Supporting software
+Research Software Engineers,join,Communities
+Research Software Engineers,propose,Funding organizations
+Research Software Engineers,use,Software engineering processes
+Research Software Engineers,develop,Software engineering processes
+Researchers,collaborate,Research Software Engineers
+Researchers,are,Research Software Engineers
+Researchers,develop,Research software
+Researchers,use,Research software
+Researchers,reproduce,Research software
+Researchers,cite,Research software
+Researchers,research,Research software
+Researchers,use,Supporting software
+Researchers,join,Communities
+Researchers,propose,Funding organizations
+Researchers,research,Software engineering processes
+Educators,train,Research Software Engineers
+Educators,educate,Research Software Engineers
+Educators,train,Researchers
+Educators,educate,Researchers
+Educators,educate,Communities
+Educators,join,Communities
+Educators,educate,Funding organizations
+Educators,educate,Hiring organizations
+Educators,disseminate,Software engineering processes
+Publishers,reward,Research Software Engineers
+Publishers,recognize,Research Software Engineers
+Publishers,reward,Researchers
+Publishers,recognize,Researchers
+Publishers,recognize,Research software
+Publishers,address,Communities
+Code platforms,recognize,Research Software Engineers
+Code platforms,store,Research software
+Code platforms,measure,Research software
+Code platforms,store,Supporting software
+Code platforms,measure,Supporting software
+Archival repositories,recognize,Research Software Engineers
+Archival repositories,recognize,Researchers
+Archival repositories,archive,Research software
+Archival repositories,measure,Research software
+Archival repositories,archive,Supporting software
+Archival repositories,measure,Supporting software
+Indices,index,Research software
+Indices,recognize,Research Software Engineers
+Indices,recognize,Researchers
+Research software,depends,Research software
+Research software,use,Hardware & system software
+Supporting software,use,Hardware & system software
+Communities,recognize,Research Software Engineers
+Communities,reward,Research Software Engineers
+Communities,recognize,Researchers
+Communities,reward,Researchers
+Communities,recognize,Educators
+Communities,reward,Educators
+Communities,standardize,Software engineering processes
+Funding organizations,recognize,Research Software Engineers
+Funding organizations,reward,Research Software Engineers
+Funding organizations,recognize,Researchers
+Funding organizations,reward,Researchers
+Funding organizations,fund,Hiring organizations
+Hiring organizations,hire,Research Software Engineers
+Hiring organizations,promote,Research Software Engineers
+Hiring organizations,recognize,Research Software Engineers
+Hiring organizations,reward,Research Software Engineers
+Hiring organizations,hire,Researchers
+Hiring organizations,promote,Researchers
+Hiring organizations,recognize,Researchers
+Hiring organizations,reward,Researchers
+Hiring organizations,hire,Educators
+Hiring organizations,promote,Educators
+Hiring organizations,recognize,Educators
+Hiring organizations,reward,Educators
+Hiring organizations,own,Code platforms
+Hiring organizations,own,Archival repositories
+Hiring organizations,own,Research software
+Hiring organizations,measure,Research software
+Hiring organizations,own,Supporting software
+Hiring organizations,formalize,Software engineering processes
+Hiring organizations,require,Software engineering processes
+Hiring organizations,own,Hardware & system software
