@@ -13,6 +13,11 @@ The three columns correspond to the *actor* (col 1), *action* (col 2), and
 
 ## Version history
 
+- `resosuma-0.4.1.csv` fixes issues #3 and #4.
+
+- `resosuma-0.4.0.csv` is the version that is part of the final submission to
+[WSSSPE6.1](http://wssspe.researchcomputing.org.uk/wssspe6-1/).
+
 - `resosuma-0.3.0.csv` renames the "Code repositories" node to "Code platforms".
 This is the version that is part of the submission to
 [WSSSPE6.1](http://wssspe.researchcomputing.org.uk/wssspe6-1/).
